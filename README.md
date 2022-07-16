@@ -1,2 +1,3 @@
 # holbertonschool-system_engineering-devops
-Doing the first 27 exercises of CMD CHALLENGE
+Evidence of doing the first 27 exercises of CMD CHALLENGE
+Each aninmal represent an exercise
